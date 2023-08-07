@@ -13,5 +13,7 @@ class x_main4{
         System.out.println("addition "+ num1 +" + "+num2 + " = "+ (num1 + num2));
         System.out.println("subtraction "+ num1 +" - "+num2 + " = "+ (num1 - num2));
 
+        in1.close();
+
     }
 }

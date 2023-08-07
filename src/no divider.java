@@ -9,5 +9,7 @@ class x_main2 {
         float divisor = in1.nextFloat();
 
         System.out.println("The quotient is: "+ (dividend/divisor));
+
+        in1.close();
     }
 }
