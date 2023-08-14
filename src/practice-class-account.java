@@ -51,4 +51,10 @@ class account{
         System.out.println("Date created: " + this.date_created);
         System.out.println("Annual intrest rate: " + this.ann_intrest);
     }
+
+    double getid(){
+        return this.id;
+    }
+
+
 }
