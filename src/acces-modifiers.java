@@ -1,4 +1,4 @@
-public class Program
+class Program
 {
     public static void main(String[] args) {
         Country c = new Country();

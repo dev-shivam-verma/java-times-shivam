@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class main_34 {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         String movie = read.nextLine();

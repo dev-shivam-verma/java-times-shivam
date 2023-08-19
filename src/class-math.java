@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-class Main {
+class main_prac {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         int num1 = read.nextInt();
